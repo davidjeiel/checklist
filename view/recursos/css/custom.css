@@ -1,0 +1,74 @@
+
+
+* html .ui-autocomplete {
+    height: 100px;
+}
+/* classe para inibir o cursor do mouse */
+.notallow{
+cursor:not-allowed;
+}
+.ui-autocomplete {
+    max-height: 100px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.menu-cefus{
+	background: #1A1EA5;	
+}
+
+.li_menu{
+	padding-right: 25px;
+	color: black;
+}
+.container-far {
+  padding-right: 9px;
+  padding-left: 9px;
+  margin-right: auto;
+  margin-left: auto;
+}
+fieldset{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.btn-flutuante{
+  display: scroll;
+  position: fixed;
+  float: right;
+  display: inline;
+  bottom: 76%;
+  right: 6px;
+  z-index: 9;
+}
+/*# sourceMappingURL=bootstrap.css.map */
+/* Botões circulares */
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+}
+.btn-circle.btn-lg {
+  width: 50px;
+  height: 50px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 25px;
+}
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 35px;
+}
+
+.principal{
+    padding-top: 100px;
+}
